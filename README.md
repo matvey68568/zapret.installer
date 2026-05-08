@@ -33,7 +33,7 @@ zapret
 - Redos Linux
 - Oracle Linux
 - OpenSUSE
-- Apline Linux
+- Alpine Linux
 - OpenWrt
 
 > [!IMPORTANT]
